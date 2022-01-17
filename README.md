@@ -1,4 +1,7 @@
 ### Olá! eu sou Paulo Henrique! 👋
+##
+- Atuo atualmente como desenvolvedor Full Stack de software na Korporate Tecnologia de João Pessoa, Paraíba.
+- Graduando em Análise e Desenvolvimento de Sistemas do IFPB - Campus Monteiro.
 <div align="center">
   <a href="https://github.com/Pauloh8190sousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pauloh8190sousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
