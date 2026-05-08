@@ -19,7 +19,7 @@
 
 ## 🚀 Tecnologias
 
-<div align="center">
+<div align="center" >
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50"/>
@@ -39,7 +39,7 @@
 
 ## 📫 Contato
 
-<div align="center">
+<div align="center" flex-direction="row">
 
 <a href="mailto:paulohenrique8190@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
