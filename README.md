@@ -2,11 +2,12 @@
 
 <div align="center">
 
-### Desenvolvedor Full Stack Java | Spring Boot | React
+### Desenvolvedor Full Stack Java | Spring Boot | React | React Native
 
-💼 Experiência no desenvolvimento de sistemas web escaláveis e APIs REST  
-🚀 Foco em backend robusto, interfaces modernas e boas práticas de desenvolvimento  
-🎓 Graduando em Análise e Desenvolvimento de Sistemas — IFPB Campus Monteiro  
+💼 5 anos de experiência no desenvolvimento de sistemas web e mobile  
+🚀 Especialista em APIs REST, integração entre sistemas e aplicações corporativas  
+🏦 Experiência em sistemas financeiros críticos e alta disponibilidade  
+🎓 Graduado em Análise e Desenvolvimento de Sistemas — IFPB  
 📍 João Pessoa • Paraíba • Brasil
 
 </div>
@@ -22,9 +23,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
@@ -35,7 +38,8 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pauloh8190sousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pauloh8190sousa&layout=compact&langs_count=7&theme=dracula"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pauloh8190sousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pauloh8190sousa&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
 
@@ -47,46 +51,16 @@
 
 ---
 
-## 🧠 Atualmente estudando
+## 🧠 Especialidades
 
-- Arquitetura de Software
-- Microsserviços com Spring Boot
-- APIs RESTful
-- Docker & Containers
-- Clean Code e SOLID
-- Banco de Dados Relacionais
-
----
-
-## 💼 Experiência
-
-🏢 **Korporate Tecnologia**  
-Atuação no desenvolvimento e manutenção de sistemas web, APIs e soluções corporativas utilizando tecnologias modernas do ecossistema JavaScript e Java.
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-<a href="mailto:paulohenrique8190@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/paulohpsousa/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/paulo_henrique_sousa/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 “Transformando ideias em soluções através da tecnologia.”
-
-</div>
+```java
+✔ Desenvolvimento Full Stack
+✔ APIs REST e integração entre sistemas
+✔ Sistemas financeiros e transações
+✔ Arquitetura de Software
+✔ Sustentação de aplicações críticas
+✔ Performance e escalabilidade
+✔ Resolução de incidentes em produção
+✔ Sistemas legados
+✔ Banco de dados relacionais e NoSQL
+✔ Metodologias Ágeis (Scrum)
