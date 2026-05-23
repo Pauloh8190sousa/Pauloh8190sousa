@@ -75,7 +75,7 @@ Plataforma mobile para captura, armazenamento e proteção de documentos digitai
 ### 🛠 Tecnologias
 React Native • Expo • TypeScript • SQLite • OCR • Criptografia
 
-🔗 Projeto: https://github.com/Pauloh8190sousa/scan-docs-save
+🔗 App Mobile: [Repositório Backend](https://github.com/Pauloh8190sousa/scan-docs-save)
 
 ---
 
@@ -94,8 +94,8 @@ Plataforma Full Stack para gerenciamento inteligente de preços e relatórios co
 **Backend:** Java • Spring Boot • PostgreSQL • Docker  
 **Frontend:** React • TypeScript • Tailwind • Vite
 
-🔗 API: https://github.com/Pauloh8190sousa/smart-price-api  
-🔗 WEB: https://github.com/Pauloh8190sousa/smart-price-web
+🔗 API: [Repositório Backend](https://github.com/Pauloh8190sousa/smart-price-api)  
+🔗 WEB: [Repositório Frontend]([LINK](https://github.com/Pauloh8190sousa/smart-price-web))
 
 ---
 
