@@ -66,10 +66,23 @@ Aplicação mobile para digitalização, organização e exportação de documen
 
 ---
 
-## 💰 Sistema Financeiro Corporativo
-Sistema focado em transações, integrações e regras de negócio críticas.
+## 📈 Smart Price
 
-**Stack:** Java • Spring Boot • Oracle • APIs REST
+Plataforma Full Stack para gerenciamento inteligente de preços e relatórios corporativos.
+
+### ⚙️ Arquitetura
+- API REST com Spring Boot
+- Frontend SPA em React
+- Autenticação JWT
+- Integração entre sistemas
+- Estrutura escalável e modular
+
+### 🛠 Tecnologias
+**Backend:** Java • Spring Boot • PostgreSQL • Docker  
+**Frontend:** React • TypeScript • Tailwind • Vite
+
+🔗 API: [Repositório Backend](LINK)  
+🔗 WEB: [Repositório Frontend](LINK)
 
 ---
 
