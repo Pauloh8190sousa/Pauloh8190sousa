@@ -94,8 +94,8 @@ Plataforma Full Stack para gerenciamento inteligente de preços e relatórios co
 **Backend:** Java • Spring Boot • PostgreSQL • Docker  
 **Frontend:** React • TypeScript • Tailwind • Vite
 
-🔗 API: [Repositório Backend](LINK)  
-🔗 WEB: [Repositório Frontend](LINK)
+🔗 API: https://github.com/Pauloh8190sousa/smart-price-api  
+🔗 WEB: https://github.com/Pauloh8190sousa/smart-price-web
 
 ---
 
