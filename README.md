@@ -95,7 +95,7 @@ Plataforma Full Stack para gerenciamento inteligente de preços e relatórios co
 **Frontend:** React • TypeScript • Tailwind • Vite
 
 🔗 API: [Repositório Backend](https://github.com/Pauloh8190sousa/smart-price-api)  
-🔗 WEB: [Repositório Frontend]([LINK](https://github.com/Pauloh8190sousa/smart-price-web))
+🔗 WEB: [Repositório Frontend](https://github.com/Pauloh8190sousa/smart-price-web)
 
 ---
 
