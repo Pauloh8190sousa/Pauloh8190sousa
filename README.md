@@ -15,16 +15,12 @@ Desenvolvendo sistemas web e mobile com foco em performance, escalabilidade e ex
 
 <br/>
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/paulohpsousa/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:paulohenrique8190@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="SEU_LINK_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -35,7 +31,7 @@ Desenvolvendo sistemas web e mobile com foco em performance, escalabilidade e ex
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=blue)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
