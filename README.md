@@ -6,7 +6,7 @@
 
 Desenvolvendo sistemas web e mobile com foco em performance, escalabilidade e experiência do usuário.
 
-🏦 Experiência com sistemas financeiros críticos  
+🏦 Experiência com sistemas financeiros e aplicações críticas em produção  
 ⚡ APIs REST, microsserviços e integrações  
 📱 Aplicações Web e Mobile  
 🧠 5 anos de experiência em desenvolvimento de software  
