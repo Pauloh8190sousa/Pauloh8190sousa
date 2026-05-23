@@ -75,7 +75,7 @@ Plataforma mobile para captura, armazenamento e proteção de documentos digitai
 ### 🛠 Tecnologias
 React Native • Expo • TypeScript • SQLite • OCR • Criptografia
 
-🔗 App Mobile: [Repositório Backend](https://github.com/Pauloh8190sousa/scan-docs-save)
+🔗 App Mobile: [Repositório](https://github.com/Pauloh8190sousa/scan-docs-save)
 
 ---
 
