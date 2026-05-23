@@ -60,9 +60,22 @@ Desenvolvendo sistemas web e mobile com foco em performance, escalabilidade e ex
 # 📌 Projetos em Destaque
 
 ## 📄 Scan Docs Save
-Aplicação mobile para digitalização, organização e exportação de documentos.
 
-**Stack:** React Native • Expo • OCR • Armazenamento local
+Plataforma mobile para captura, armazenamento e proteção de documentos digitais com foco em produtividade e segurança.
+
+### 🚀 Recursos
+- Scanner inteligente de documentos
+- OCR para extração de texto
+- Exportação PDF
+- Assinatura digital
+- Backup e sincronização
+- Segurança local com biometria
+- Organização avançada de arquivos
+
+### 🛠 Tecnologias
+React Native • Expo • TypeScript • SQLite • OCR • Criptografia
+
+🔗 Projeto: https://github.com/Pauloh8190sousa/scan-docs-save
 
 ---
 
